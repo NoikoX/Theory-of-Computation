@@ -17,7 +17,12 @@ Here’s a quick overview of what you’ll find in each folder:
 
 ## Examples below:
 ![Task 5](Images/hw5_task.png)
-![Task 5](Images/random_exercises.png)
+![Task 6](Images/random_exercises.png)
+![Task 7](Images/regular.png)
+
+### Homework example:
+
+![Hw](Images/Alice.png)
 
 ## 💬 Questions?
 
